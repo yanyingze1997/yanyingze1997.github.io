@@ -21,4 +21,3 @@ Greetings! I’m Yingze Yan, a civil engineer, Currently on the hunt for PhD pos
 
 I am freshly minted with an MSc in Civil Engineering from ETH, where my thesis delved into using artificial intelligence for early-stage fault detection in actuators in real world industrial context(seemingly more aligned with machines than buildings!). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
